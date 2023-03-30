@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+img{
+    width: 700px;
+    height: 200px;
+    margin-left: 500px;
+    margin-top: 50px;
+    object-fit: cover;
+}
+.google{
+    width: 90%;
+    height: 75px;
+    background-color: rgb(173, 171, 171);
+    margin-left: 100px;
+}
+.google__search{
+    text-align: center;
+    font-size: 20px;
+}
+#search{
+    width: 500px;
+    height: 20px;
+}
+.google__src{
+    text-align: center;
+}
+.col{
+    width: 90%;
+    display: flex;
+    gap: 5px;
+    text-align: center;
+    margin-left: 100px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+.col__col1{
+    width: 550px;
+    height: 100px;
+    background-color: aqua;
+    padding-top: 10px;
+    
+}
+.col__col2{
+    width: 300px;
+    height: 100px;
+background-color: aqua;
+padding-top: 10px;
+}
+.col__col3{
+    width: 550px;
+    height: 100px;
+    background-color: aqua;
+    padding-top: 10px;
+}
+
+#email{
+    width: 200px;
+}
+.text{
+    text-align: center;
+    margin-top: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
